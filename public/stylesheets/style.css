@@ -1,0 +1,36 @@
+*{
+	margin: 0px; padding: 0px;
+}
+body {
+  font: 16px Tahoma, sans-serif;
+}
+#page-wrap{
+	margin: 2% auto; color: white;
+}
+#page-wrap > .main{
+	border: 1px solid #369; padding: 1%;
+	margin-bottom: 1px;
+	color: #036;	
+}
+section > div {
+	padding: 20px;
+}
+header,nav,section{
+	background: #eee; text-align: center;
+}
+footer{
+    background: #c1f1e2; text-align: center;	
+}
+nav span{
+	margin: 0px 10px 0px 0px;
+}
+
+a {
+  color: #00B7FF;
+}
+img{
+	
+  max-width:29%;
+ max-height:54%;
+ margin:2%;
+}

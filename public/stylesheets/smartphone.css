@@ -1,0 +1,23 @@
+body {
+ background: #036;
+}
+#page-wrap:after{
+	content: "Smartphone Layout";
+}
+h2 span, section h3{
+	display: none;
+}
+body{font-size: x-large;}
+footer,input{font-size: large;}
+a{
+	font-size: large;
+	text-decoration: none;
+	padding:1%;
+	background: #369;
+	border-radius: 9px;
+}
+input{
+	border-radius: 5px;
+	color:#036;
+	background:#cce;
+	}
